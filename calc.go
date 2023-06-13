@@ -11,3 +11,7 @@ func Add(d ...int) int {
 func Sub(i, j int) int {
 	return i - j
 }
+
+func Plus(i, j int) int {
+	return i + j
+}
