@@ -19,3 +19,7 @@ func Plus(i, j int) int {
 func Oh() {}
 
 func Test() {}
+
+func Self() string {
+	return "this is main"
+}
