@@ -25,3 +25,5 @@ func Self() string {
 }
 
 func Hey() {}
+
+func Print() {}
