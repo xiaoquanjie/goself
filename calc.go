@@ -21,5 +21,5 @@ func Oh() {}
 func Test() {}
 
 func Self() string {
-	return "this is main"
+	return "this is dev2"
 }
