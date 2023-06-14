@@ -23,3 +23,5 @@ func Test() {}
 func Self() string {
 	return "this is dev2"
 }
+
+func Print() {}
