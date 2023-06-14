@@ -15,3 +15,5 @@ func Sub(i, j int) int {
 func Plus(i, j int) int {
 	return i + j
 }
+
+func Oh() {}
