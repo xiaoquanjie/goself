@@ -17,3 +17,5 @@ func Plus(i, j int) int {
 }
 
 func Oh() {}
+
+func Test() {}
